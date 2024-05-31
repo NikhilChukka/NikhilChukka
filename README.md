@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning and UI/UX
 - 💞️ I’m looking to collaborate on a Software Engineering Project
-- 📫 Reach me at nikhilchukka335@gmail.com
+- 📫 Reach me at nikhilchukka335@gmail.com || nchukka@gmu.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: AI won’t replace software developers!
 
