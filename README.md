@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Chukka
-- 👀 interested in Software Engineering
-- 🌱 currently learning Machine Learning and UI/UX
+- 👀 interested in Software Engineering and AI
+- 🌱 currently learning LLMs and UI/UX
 - 💞️ looking to collaborate on Software Engineering/AI Projects
 - 📫 Reach me at nikhilchukka335@gmail.com || nchukka@gmu.edu
 - 😄 Pronouns: he/him
