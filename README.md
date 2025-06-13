@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikhilChukka
+- 👋 Hi, I’m Nikhil Chukka
 - 👀 interested in Software Engineering
 - 🌱 currently learning Machine Learning and UI/UX
 - 💞️ looking to collaborate on Software Engineering/AI Projects
